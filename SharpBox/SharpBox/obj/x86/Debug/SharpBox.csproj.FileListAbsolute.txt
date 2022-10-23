@@ -1,0 +1,7 @@
+c:\users\inniesharp\documents\visual studio 2010\Projects\SharpBox\SharpBox\bin\Debug\SharpBox.exe
+c:\users\inniesharp\documents\visual studio 2010\Projects\SharpBox\SharpBox\bin\Debug\SharpBox.pdb
+c:\users\inniesharp\documents\visual studio 2010\Projects\SharpBox\SharpBox\obj\x86\Debug\SharpBox.Form1.resources
+c:\users\inniesharp\documents\visual studio 2010\Projects\SharpBox\SharpBox\obj\x86\Debug\SharpBox.Properties.Resources.resources
+c:\users\inniesharp\documents\visual studio 2010\Projects\SharpBox\SharpBox\obj\x86\Debug\SharpBox.csproj.GenerateResource.Cache
+c:\users\inniesharp\documents\visual studio 2010\Projects\SharpBox\SharpBox\obj\x86\Debug\SharpBox.exe
+c:\users\inniesharp\documents\visual studio 2010\Projects\SharpBox\SharpBox\obj\x86\Debug\SharpBox.pdb
